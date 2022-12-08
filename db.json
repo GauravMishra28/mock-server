@@ -1,16 +1,7 @@
 {
-    "users": [
-  
-        {
-          "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-          "id":1,
-          "name": "Harry Potter and the Philosopher's Stone",
-          "author": "J. K. Rowling",
-          "genre": "fiction",
-          "edition": "2021",
-          "publisher": "Bloomsbury",
-          "cost": 1299  
-        }
-      
-    ]
+    "users": [],
+    "posts":[{
+      "tweet":"I love Cats",
+      "gif":"https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif"
+    }]
   }
